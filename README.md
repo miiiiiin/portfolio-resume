@@ -15,11 +15,11 @@
 
     * 새누리헬퍼
     * 간병인, 베이비시터 구인구직정보 공유 서비스   
-      ![새누리헬퍼](https://github.com/87kangsw/resume/blob/master/images/beauty.png)
+      ![새누리헬퍼](https://github.com/min1022/portfolio-resume/blob/master/images/saenuri.png)
 
     * 데일리데일리
     * 10, 20대 여성의류 쇼핑몰
-      ![데일리데일리](https://github.com/87kangsw/resume/blob/master/images/beauty.png)
+      ![데일리데일리](https://github.com/min1022/portfolio-resume/blob/master/images/dailydaily.png)
 
     * 차빌림
     * 렌터카 서비스
