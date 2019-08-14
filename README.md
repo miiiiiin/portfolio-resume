@@ -2,7 +2,8 @@
 ## 경력
 
 * Launchers Inc. (2019.03 ~ Now)
-        * [RYDE - 구디 전동킥보드 공유 서비스](https://apps.apple.com/us/app/ryde/id1453366845?l=ko&ls=1)
+
+	* [RYDE - 구디 전동킥보드 공유 서비스](https://apps.apple.com/us/app/ryde/id1453366845?l=ko&ls=1)
 
 * 글로벌휴머니즘 (2018.10 ~ 2019.03)
 	* [코코봇](https://itunes.apple.com/kr/app/cocobot/id1441122355?mt=8)
