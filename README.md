@@ -7,7 +7,7 @@
   * [차빌림](https://itunes.apple.com/us/app//id1450886385?mt=8)
   * [부동산 다이어리(미출시) AOS 버전 유](https://play.google.com/store/apps/details?id=app.cosmos.ghrealestatediary&hl=en_US)
 
-* Launchers Inc., (2019.03 ~ Now)
+* Launchers Inc. (2019.03 ~ Now)
 	* [RYDE - 구디 전동킥보드 공유 서비스](https://apps.apple.com/us/app/ryde/id1453366845?l=ko&ls=1)
 
 ## 회사 프로젝트
