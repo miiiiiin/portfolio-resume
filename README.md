@@ -7,7 +7,25 @@
   * [차빌림](https://itunes.apple.com/us/app//id1450886385?mt=8)
   * [부동산 다이어리(미출시) AOS 버전 유](https://play.google.com/store/apps/details?id=app.cosmos.ghrealestatediary&hl=en_US)
 
+* Launchers Inc., (2019.03 ~ Now)
+	* [RYDE - 구디 전동킥보드 공유 서비스](https://apps.apple.com/us/app/ryde/id1453366845?l=ko&ls=1)
+
 ## 회사 프로젝트
+
+* 런처스
+    * RYDE
+    * 모바일 기기와의 블루투스 연동을 통해 전동 스쿠터를 대여할 수 있는 마이크로 모빌리티 공유 서비스입니다.
+    * 사용 언어: Swift 4.2
+	* 주요 업무
+		* Polidea RxBluetoothKit 사용, 바코드 스캔을 통하여 전동 스쿠터와 앱 간 블루투스 연동 작업
+		* Android, iOS 유지보수 및 신규기능 개발
+		* Localization
+		* Firebase Analytics, Crashlytics 활용 및 분석
+		* Google Map 기반 실시간 위치 작업
+	![RYDE - 구디 전동킥보드 공유 서비스](https://github.com/miiiiiin/portfolio-resume/blob/master/images/ryde_1.png)
+
+	![](https://github.com/miiiiiin/portfolio-resume/blob/master/images/ryde_2.png) 
+
 * 글로벌휴머니즘
     * 코코봇
     * 커피 주문 시 가상화폐 적립 서비스
