@@ -25,7 +25,8 @@
 		* Localization
 		* Firebase Analytics, Crashlytics 활용 및 분석
 		* Google Map 기반 실시간 위치 작업
-	![RYDE - 구디 전동킥보드 공유 서비스](https://github.com/miiiiiin/portfolio-resume/blob/master/images/ryde_1.png)
+
+	![](https://github.com/miiiiiin/portfolio-resume/blob/master/images/ryde_1.png)
 
 	![](https://github.com/miiiiiin/portfolio-resume/blob/master/images/ryde_2.png) 
 
