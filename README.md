@@ -1,23 +1,33 @@
 # 이력서
 ## 경력
 
-* Launchers Inc. (2019.03 ~ Now)
+* (주)마지막삼십분 (2019. 09 ~ Now)
+	* [잇차 - 주차장 찾을 필요없는 주차앱](https://apps.apple.com/us/app/%EC%9E%87%EC%B0%A8/id1485762012?l=ko&ls=1)
+
+* Launchers Inc. (2019.03 ~ 2019. 08)
 
 	* [RYDE - 구디 전동킥보드 공유 서비스](https://apps.apple.com/us/app/ryde/id1453366845?l=ko&ls=1)
-
-* 글로벌휴머니즘 (2018.10 ~ 2019.03)
-	* [코코봇](https://itunes.apple.com/kr/app/cocobot/id1441122355?mt=8)
-	* [새누리헬퍼](https://itunes.apple.com/kr/app//id1449540870?mt=8)
-  * [차빌림](https://itunes.apple.com/us/app//id1450886385?mt=8)
-  * [부동산 다이어리(미출시) AOS 버전 유](https://play.google.com/store/apps/details?id=app.cosmos.ghrealestatediary&hl=en_US)
 
 
 ## 회사 프로젝트
 
+* (주)마지막삼십분
+    * 잇차
+    * 모바일 앱 기반의 O2O 차량 주차대행 서비스입니다.
+    * 사용 언어: Swift
+	* 주요 업무
+		* iOS 개발 및 유지보수
+		* Firebase realtime DB를 통한 서비스 UI/UX 구현
+		* Tmap, Kakao Navigation SDK 연동 작업
+		* Google Map 기반 실시간 위치 작업
+		* Firebase Analytics, AppsFlyer, Crashlytics 활용 및 분석
+
+	![](https://github.com/miiiiiin/portfolio-resume/blob/master/images/itcha.png)
+
 * 런처스
     * RYDE
     * 모바일 기기와의 블루투스 연동을 통해 전동 스쿠터를 대여할 수 있는 마이크로 모빌리티 공유 서비스입니다.
-    * 사용 언어: Swift 4.2
+    * 사용 언어: Swift
 	* 주요 업무
 		* Polidea RxBluetoothKit 사용, 바코드 스캔을 통하여 전동 스쿠터와 앱 간 블루투스 연동 작업
 		* Android, iOS 유지보수 및 신규기능 개발
@@ -40,29 +50,14 @@
 
       ![코코봇](https://github.com/min1022/portfolio-resume/blob/master/images/cocobot.png)
 
-    * 새누리헬퍼
-    * 간병인, 베이비시터 구인구직정보 공유 서비스
-    * 사용 언어 : Swift 4.2
-  	* 주요 업무
-  		* 이니시스 ISP 결제 연동
-  		* WebView를 이용한 모바일 웹 연동 작업 (하이브리드 앱)
-  		* firebase APNS 구현 (푸시 서비스 활성/비활성화 기능 추가)
-      ![새누리헬퍼](https://github.com/min1022/portfolio-resume/blob/master/images/saenuri.png)
 
-    * 차빌림
-    * 렌터카 서비스
-    * 사용 언어 : Swift 4.2
-    * 주요 업무
-      * WebView를 이용한 모바일 웹 연동 작업 (하이브리드 앱)
-      * APNS 기능
-      * 카카오 공유 연동
-      ![차빌림](https://github.com/min1022/portfolio-resume/blob/master/images/charbilim.png)
+## 개인 프로젝트
 
-    * 부동산 다이어리
-    * 부동산 매물 정보 공유 서비스
-    * 사용 언어 : Swift 4.2
-    * 주요 업무
-      * 자바스크립트 연동 지도기능(지형도, 로드맵 등) 구현
-      * 기존 프로젝트 기획 리뉴얼에 따른 작업 진행
-      * Daum Map API 사용, 지역별 매물 등록 및 조회 구현
-      ![부동산 다이어리](https://github.com/min1022/portfolio-resume/blob/master/images/buda.png)
+* Vinyler
+    * LP 음반의 바코드를 카메라로 스캔하여 음반 정보를 확인 및 공유할 수 있습니다.
+    * 사용 언어: Swift 5
+	* Description
+		* RxSwift, SwiftLint .. etc
+		* MVC
+		* Discogs API data
+
